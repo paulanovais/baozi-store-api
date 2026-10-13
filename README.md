@@ -9,7 +9,7 @@ Abra a pasta no IntelliJ ou VS Code e execute `mvn spring-boot:run` (necessita i
 Selecione Body > raw > JSON e Content-Type application/json.
 
 1. POST http://localhost:8080/clientes
-   {"nome":"Paula4472135","clienteDesde":"2026-10-12"}
+   {"nome":"Paula5537051","clienteDesde":"2026-10-12"}
 2. POST http://localhost:8080/produtos
    {"nome":"Baozi tradicional","preco":8.50,"estoque":true}
 3. POST http://localhost:8080/pedidos
